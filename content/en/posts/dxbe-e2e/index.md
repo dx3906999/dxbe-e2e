@@ -7,7 +7,7 @@ translationKey: dxbe-e2e
 summary: Install dxbe from GitHub, build the site, and deploy it to GitHub Pages.
 ---
 
-This site checks the full path from installing `dxbe` from GitHub to deploying on GitHub Pages.
+This site checks the full path from installing `dxbe` from a GitHub release to deploying on GitHub Pages.
 
 ## Local build
 
@@ -25,7 +25,7 @@ The output goes to `dist/`; Pagefind builds the search index.
 Inline math $E = mc^2$, and a display equation:
 
 $$
-sum_{i=1}^{n} i = rac{n(n+1)}{2}
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
 $$
 
 ## Internal links

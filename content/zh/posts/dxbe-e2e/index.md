@@ -4,7 +4,7 @@ date: 2026-10-20T10:00:00+08:00
 tags: [部署, 静态站点]
 slug: dxbe-e2e
 translationKey: dxbe-e2e
-summary: 从 GitHub 安装 dxbe，构建站点，再部署到 GitHub Pages。
+summary: 从 GitHub Release 安装 dxbe，构建站点，再部署到 GitHub Pages。
 ---
 
 这个站点用于验证 `dxbe` 从 GitHub 安装到 GitHub Pages 部署的完整链路。
@@ -25,7 +25,7 @@ npx dxbe check
 行内公式 $E = mc^2$，块级公式：
 
 $$
-sum_{i=1}^{n} i = rac{n(n+1)}{2}
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
 $$
 
 ## 内部链接
