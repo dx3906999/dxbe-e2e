@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+.dev-dist/
+.theme-check/
+.determinism/
+.test-dist/
+site.config.ts.bak
+*.log

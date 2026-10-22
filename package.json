@@ -1,0 +1,18 @@
+{
+  "name": "dxbe-e2e",
+  "private": true,
+  "type": "module",
+  "description": "End-to-end deployment test for dxbe",
+  "scripts": {
+    "dev": "dxbe dev",
+    "build": "dxbe build",
+    "build:all": "dxbe check",
+    "preview": "dxbe preview",
+    "new": "dxbe new",
+    "clean": "dxbe clean",
+    "setup": "dxbe setup"
+  },
+  "dependencies": {
+    "dxbe": "https://github.com/dx3906999/dxbe/releases/download/v0.4.2/dxbe-0.4.2.tgz"
+  }
+}
