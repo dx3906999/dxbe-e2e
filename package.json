@@ -13,6 +13,6 @@
     "setup": "dxbe setup"
   },
   "dependencies": {
-    "dxbe": "https://github.com/dx3906999/dxbe/releases/download/v0.5.2/dxbe-0.5.2.tgz"
+    "dxbe": "https://github.com/dx3906999/dxbe/releases/download/v0.5.4/dxbe-0.5.4.tgz"
   }
 }
